@@ -1,3 +1,6 @@
 import './styles/style.css'
+import feature from './features/features'
 
-console.log('Welcome to Vite + JS + Webflow!')
+console.log('testing')
+
+feature()
